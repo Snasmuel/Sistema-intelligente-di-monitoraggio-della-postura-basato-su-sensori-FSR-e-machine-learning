@@ -9,7 +9,7 @@
 [cite_start]All'interno del progetto sviluppato in team, il mio contributo personale è consistito nella progettazione di tutta la componentistica hardware necessaria al corretto funzionamento del sistema[cite: 43]. 
 
 Mi sono occupato specificatamente di:
-* [cite_start]Scelta e dimensionamento dei componenti hardware[cite: 44].
+* [cite_start] Scelta e dimensionamento dei componenti hardware[cite: 44].
 * [cite_start]Integrazione elettrica e progettazione dello schema circuitale[cite: 44, 164].
 * [cite_start]Progettazione del sistema di alimentazione e analisi energetica per garantire l'autonomia del dispositivo[cite: 44, 266, 283].
 
